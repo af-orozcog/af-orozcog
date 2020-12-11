@@ -8,7 +8,6 @@ I'm Andres. I'm a future intern at Twilio and a passionate software engineering 
 
 - 🌱 I’m currently learning cloud computing and Django
 - 🤔 I’m looking for help with low level, OS and visual programming in C++
-- 🎮 Find me on lichess [aortiz49](https://lichess.org/@/aortiz49) (still a n00b)
 - 📫 How to reach me: goricrates@gmail.com
 
 <p>
