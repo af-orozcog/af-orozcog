@@ -11,7 +11,7 @@ I'm Andres. I'm a future intern at Twilio and a passionate software engineering 
 - 📫 How to reach me: goricrates@gmail.com
 
 <p>
-   <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=af-orozcog&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
+   <img width="48%" align="right" alt="Andres's github stats" src="https://github-readme-stats.vercel.app/api?username=af-orozcog&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
   </p>
-  <img width="48%" align="right" alt="Andy's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=af-orozcog&layout=compact&theme=radical&hide=batchfile,html,css&hide_border=true" />
+  <img width="48%" align="right" alt="Andres's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=af-orozcog&layout=compact&theme=radical&hide=batchfile,html,css&hide_border=true" />
  </p>
