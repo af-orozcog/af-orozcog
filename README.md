@@ -7,7 +7,7 @@ Hi I am Andres Felipe. I'm a software engineering student from <br> Universidad 
 
 - 👨🏽‍💻 I’m currently working on getting better for the next ICPC competition
 - 👯 I’m looking to collaborate on OS development projects
-- 🤔 I’m looking for low level C programming
+- 🤔 I’m looking for help low level C programming
 - ⚡️ Fun-Fact: I love walking and going to museums
 - 📫 How to reach me: af.orozcog@uniandes.edu.co
 
