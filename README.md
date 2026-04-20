@@ -1,5 +1,4 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/af-orozcog)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:af.orozcog@uniandes.edu.co)
 
 Hi I am Andres Felipe. I'm a software engineering student from <br> Universidad de los Andes(🇨🇴) </br>
 
