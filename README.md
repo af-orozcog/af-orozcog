@@ -6,7 +6,6 @@ Hi I am Andres Felipe. I'm a software engineering student from <br> Universidad 
 - 👯 I’m looking to collaborate on OS development projects
 - 🤔 I’m looking for help low level C programming
 - ⚡️ Fun-Fact: I love walking and going to museums
-- 📫 How to reach me: af.orozcog@uniandes.edu.co
 
 <p>
    <img width="48%" align="right" alt="Andres' github stats" src="https://github-readme-stats.vercel.app/api?username=af-orozcog&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
